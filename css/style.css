@@ -8,7 +8,7 @@ li a {
 	color: #EE4036;
 }
 .header {
-	font-family: BPGNinoMtavruli-Bold;
+	font-family: "BPG Nino Mtavruli Bold", sans-serif;
 	font-size: 22px;
 	margin-left: 30px;
 }
@@ -55,7 +55,7 @@ li a {
 }
 .address {
 	color: black;
-	font-family: BPGIngiriArial;
+	font-family: "BPG Ingiri Arial", sans-serif;
 	text-align: center;
 	font-size: 20px;
 	margin: 154px;
@@ -74,7 +74,7 @@ li a {
 	background-color:#3D58A6 ;
 	width: 56px;
 	height: 56px;
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 48px;
 	text-align: right;
 	border-left: 6px;
@@ -84,14 +84,14 @@ li a {
 	margin-top: 42px;
 }
 .headmonth {
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 22px;
 	color: #3D58A6;
 	margin-top: 10px;
 	margin-left: 1px;
 }
 .head {
-	font-family: BPGNinoMtavruli;
+	font-family: "BPG Nino Mtavruli", sans-serif;
 	font-size: 20px;
 	color: #000000;
 	margin-top: 27px;
@@ -105,7 +105,7 @@ li a {
 	margin-bottom: 26px;
 }
 .paragraph {
-	font-family: BPGIngiriArial;
+	font-family: "BPG Ingiri Arial", sans-serif;
 	font-size: 16px;
 	color: #000000;
 	text-align: left;
