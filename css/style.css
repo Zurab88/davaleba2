@@ -17,7 +17,7 @@ li a {
 	margin-bottom: 109px;
 	height: 17px;
 }
-.headerimg {
+.htmlLogo {
 	margin-top: 30px;
 	margin-left: 30px;
 	margin-bottom: 15px;
@@ -54,13 +54,17 @@ li a {
 	color: #E6E6E6;
 }
 .address {
-	color: #3D58A6;
+	color: black;
 	font-family: BPGIngiriArial;
 	text-align: center;
 	font-size: 20px;
 	margin: 154px;
 	line-height: 35px;
 	padding-bottom: 120px;
+}
+.contactinfo {
+	color: #3D58A6;
+	font-size: 22px
 }
 .article {
 	margin-left: 30px;
